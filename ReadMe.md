@@ -28,7 +28,7 @@ const about = {
   data: [Supabase, Firebase, SQLite, MySQL, MongoDB],
   mlLowLevel: [TensorFlow, OpenCV, CMake, Qt],
   tools: [Docker, Git, GitHub, Figma, Postman, VSCode, AndroidStudio, Xcode],
-  systems: [Linux, Arch, MacOS, Windows]
+  systems: [Linux (Arch btw), MacOS, Windows]
 };
 ```
 
