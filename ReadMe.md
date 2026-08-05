@@ -7,7 +7,9 @@
 [![Linkedin: arrahmanbd](https://img.shields.io/badge/-arrahmanbd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arrahmanbd/)](https://www.linkedin.com/in/arrahmanbd/)
 [![GitHub arrahmanbd](https://img.shields.io/github/followers/arrahmanbd?label=follow&style=social)](https://github.com/arrahmanbd)
 
-Now a full-stack developer with a strong focus on **Flutter**, system architecture, and scalable application design. I build products that favor clarity, performance, and long-term maintainability over shortcuts.
+Today, I’m a full-stack developer with a strong focus on **Flutter**, system architecture, and scalable application design. I enjoy turning complicated requirements into products that feel simple, perform reliably, and remain understandable long after the first release.
+
+I prefer thoughtful architecture over clever shortcuts, explicit code over hidden magic, and maintainable systems over temporary victories.
 
 
 I build apps that:
@@ -31,4 +33,4 @@ const about = {
 ```
 
 
-*innovation never sleeps.  Neither do production bugs.*
+*Good code works today. Great code remains understandable tomorrow.*
