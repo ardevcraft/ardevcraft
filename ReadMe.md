@@ -4,7 +4,7 @@
 <br/>Fell in love with coding. Turns out love really is blind,<br/>You can find more of my questionable engineering decisions <a href="https://ardevcraft.github.io">here</a></em></p>
 </p>
 
-[![Linkedin: arrahmanbd](https://img.shields.io/badge/-arrahmanbd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arrahmanbd/)](https://www.linkedin.com/in/arrahmanbd/)
+[![Linkedin: ardevcraft](https://img.shields.io/badge/-arrahmanbd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arrahmanbd/)](https://www.linkedin.com/in/arrahmanbd/)
 [![GitHub: ardevcraft](https://img.shields.io/github/followers/ardevcraft?label=follow&style=social)](https://github.com/ardevcraft)
 
 Today, I’m a full-stack developer with a strong focus on **Flutter**, system architecture, and scalable application design. I enjoy turning complicated requirements into products that feel simple, perform reliably, and remain understandable long after the first release.
