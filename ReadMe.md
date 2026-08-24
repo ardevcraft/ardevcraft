@@ -1,11 +1,11 @@
 # Hi, I'm AR! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="35" />
 
 <p><em>Started as a physics major. 
-<br/>Fell in love with coding. Turns out love really is blind,<br/>You can find more of my questionable engineering decisions <a href="https://arrahmanbd.github.io">here</a></em></p>
+<br/>Fell in love with coding. Turns out love really is blind,<br/>You can find more of my questionable engineering decisions <a href="https://ardevcraft.github.io">here</a></em></p>
 </p>
 
 [![Linkedin: arrahmanbd](https://img.shields.io/badge/-arrahmanbd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arrahmanbd/)](https://www.linkedin.com/in/arrahmanbd/)
-[![GitHub arrahmanbd](https://img.shields.io/github/followers/arrahmanbd?label=follow&style=social)](https://github.com/arrahmanbd)
+[![GitHub: ardevcraft](https://img.shields.io/github/followers/ardevcraft?label=follow&style=social)](https://github.com/ardevcraft)
 
 Today, I’m a full-stack developer with a strong focus on **Flutter**, system architecture, and scalable application design. I enjoy turning complicated requirements into products that feel simple, perform reliably, and remain understandable long after the first release.
 
